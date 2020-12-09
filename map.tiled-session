@@ -41,6 +41,7 @@
         },
         "tile-set-0812.tsx": {
             "dynamicWrapping": false,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "tile-set-Boden-0712.png": {
@@ -48,6 +49,7 @@
             "scaleInDock": 1
         },
         "tile-set-Boden-0712.tsx": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         }
     },
